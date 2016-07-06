@@ -21,6 +21,7 @@ syncFnFlow(
 , doubleIt
 , doubleIt
 )
+// -> 4096
 ```
 
 
