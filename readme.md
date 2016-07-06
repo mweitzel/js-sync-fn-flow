@@ -7,6 +7,8 @@ module which calls a queue of synchronous functions with the return value of the
 there is no default value
 
 ```
+var doubleIt = (a) => 2 * a
+
 syncFnFlow(
   _=> 2
 , doubleIt
